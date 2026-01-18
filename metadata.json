@@ -1,0 +1,5 @@
+{
+  "name": "Helpnexa - Multi-Tenant IT Ticketing System",
+  "description": "A comprehensive IT support ticketing platform featuring multi-company support, role-based access control, ticket lifecycle management, and AI-powered ticket triaging using Gemini.",
+  "requestFramePermissions": []
+}
